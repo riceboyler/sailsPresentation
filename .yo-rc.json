@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Sails.js",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}

@@ -1,0 +1,26 @@
+[
+    "welcome-to-sailsjs.html",
+    [
+        "what-is-sails.html",
+        "getting-started.html",
+        {
+            "filename": "getting-started-demo.html",
+            "attr": {
+                "data-background": "#66F",
+                "data-transition": "zoom"
+            }
+        }
+    ],
+    [
+        "waterline-orm.html",
+        "skipper-file-uploads.html",
+        "blueprints-restful-apis-in-seconds.html",
+        {
+            "filename": "restful-api-in-30-seconds-demo.html",
+            "attr": {
+                "data-background": "#66F",
+                "data-transition": "zoom"
+            }
+        }
+    ]
+]
