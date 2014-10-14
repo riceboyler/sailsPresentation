@@ -1,6 +1,9 @@
 [
     "welcome-to-sailsjs.html",
     [
+        "whoami.html"
+    ],
+    [
         "what-is-sails.html",
         "getting-started.html",
         {
@@ -21,6 +24,29 @@
                 "data-background": "#66F",
                 "data-transition": "zoom"
             }
+        },
+        "models.html",
+        "controllers.html",
+        "views.html",
+        {
+            "filename": "modelviewcontrollerdemo.html",
+            "attr": {
+                "data-background": "#66F",
+                "data-transition": "zoom"
+            }
         }
+    ],
+    [
+        "passport.html",
+        {
+            "filename": "passport-demo.html",
+            "attr": {
+                "data-background": "#66F",
+                "data-transition": "zoom"
+            }
+        }
+    ],
+    [
+        "procon.html"
     ]
 ]
