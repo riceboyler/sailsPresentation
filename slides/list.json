@@ -16,7 +16,6 @@
     ],
     [
         "waterline-orm.html",
-        "skipper-file-uploads.html",
         "blueprints-restful-apis-in-seconds.html",
         {
             "filename": "restful-api-in-30-seconds-demo.html",
@@ -37,6 +36,16 @@
         }
     ],
     [
+        "skipper-file-uploads.html",
+        {
+            "filename":"skipper-demo.html",
+            "attr": {
+                "data-background":"#66F",
+                "data-transition":"zoom"
+            }
+        }
+    ],
+    [
         "passport.html",
         {
             "filename": "passport-demo.html",
@@ -48,5 +57,12 @@
     ],
     [
         "procon.html"
-    ]
+    ],
+    {
+        "filename":"thanks.html",
+        "attr": {
+            "data-background": "#F66",
+            "data-transition": "zoom"
+        }
+    }
 ]
